@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "text": "El League of Legends es un juegazo",
+    "owner": "karasu",
+    "createdAt": 5
+  },
+  {
+    "id": "3",
+    "text": "Las milanesas con papas fritas son mi espíritu animal",
+    "owner": "karasu",
+    "createdAt": 30
+  },
+  {
+    "id": "4",
+    "text": "¡Como lo peta Aitana Ocaña! Les recomiendo su música! Fdo: Pepe Benavente",
+    "owner": "pepeBenavente",
+    "createdAt": 8
+  },
+  {
+    "id": "tweet-kv14nzfu",
+    "text": "Tweet de prueba para Pepe",
+    "owner": "pepeBenavente",
+    "createdAt": 47
+  }
+]
