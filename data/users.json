@@ -1,1 +1,23 @@
-[{"id":"user-kv09n6o9","username":"karasu","name":"Laureano Cardozo","email":"laureano@gmail.com","tweets":["1","3"]},{"id":"user-sv39n6o5","username":"pepeBenavente","name":"Ismael Benavente Báez ","email":"pepe@benavente.com","tweets":["4","tweet-kv14nzfu"]},{"username":"karasu22","name":"hola@caracola.coo","email":"hola@caracola.coo","id":"user-kv0aq8u6","tweets":[]}]
+[
+  {
+    "id": "user-kv09n6o9",
+    "username": "karasu",
+    "name": "Laureano Cardozo",
+    "email": "laureano@gmail.com",
+    "tweets": ["1", "3"]
+  },
+  {
+    "id": "user-sv39n6o5",
+    "username": "pepeBenavente",
+    "name": "Ismael Benavente Báez ",
+    "email": "pepe@benavente.com",
+    "tweets": ["4", "tweet-kv14nzfu"]
+  },
+  {
+    "username": "karasu22",
+    "name": "hola@caracola.coo",
+    "email": "hola@caracola.coo",
+    "id": "user-kv0aq8u6",
+    "tweets": []
+  }
+]

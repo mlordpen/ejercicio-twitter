@@ -3,6 +3,9 @@ const express = require("express");
 const { stringify } = require("querystring");
 const app = express();
 
+const mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/db-twitter')
+
 const usersRouter = require('./api/users');
 const tweetsRouter = require('./api/tweets')
 
